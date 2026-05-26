@@ -1,2 +1,9 @@
 # My-Cybersecurity-Journey
-My Learning journey in Cybersecurity, AI and Python
+Hi, I'm Krishna patel 
+Currently Learning:
+-Cybersecurity
+-Python
+-linux
+-AI Tools
+-GRC
+this repository contains my ntes, projects and learning journey.
