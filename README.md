@@ -6,4 +6,4 @@ Currently Learning:
 -linux
 -AI Tools
 -GRC
-this repository contains my ntes, projects and learning journey.
+this repository contains my notes, projects and learning journey.
